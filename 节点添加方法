@@ -5,6 +5,9 @@ trojan://密码@节点地址:端口#节点名称
 
 将合并出来的URL粘贴到以下网址生成二维码
 https://www.qr-code-generator.com/
+※另外也可以使用我项目中的excel工具来生成二维码。
+  https://github.com/almes10/PharosAddTrojan/blob/master/Trojan%20QR%20Code.xlsx
+  点击右侧的“download”即可下载。
 
 打开pharos for Android，点击扫码，扫描二维码即可添加。
 添加后的节点到扫码列表中可以看到。
