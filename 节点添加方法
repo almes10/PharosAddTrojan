@@ -35,6 +35,12 @@ https://www.qr-code-generator.com/
 如果有节点有变动，只需要再一次打开以下网址，粘贴变更后的节点URL，再生成一次，然后到pharos的订阅节点列表中去点刷新即可。
 生成订阅地址 https://ssr.lasoy.cn/index.php
 
+#Insert comment 2020/02/20
+ 上面的地址不行了。请用以下方法生成订阅。
+ https://github.com/almes10/ssr_subscrible_tool
+ 内有教程视频，相信大家都能成功。
+#end comment 2020/02/20
+
 当然，即便你只有一个trojan节点，也可以用这个方法实现订阅添加。
 有人甚至考虑在机顶盒里使用pharos，本人没试过，但是你懂得，机顶盒是不可能扫码添加的。
 那么你就可以考虑用这个生成订阅的方式了。
