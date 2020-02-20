@@ -39,6 +39,13 @@ https://www.qr-code-generator.com/
  上面的地址不行了。请用以下方法生成订阅。
  https://github.com/almes10/ssr_subscrible_tool
  内有教程视频，相信大家都能成功。
+ 
+ 补充说明。教程中的做法是可以生成，但是那个你的Github的Repository地址是公开的。
+ 比如我上面这个地址，如果我在这里面编辑为自己生成订阅的话。
+ 那么所有人都能看到我的节点信息了，这显示是不行的。
+ 而且fork来Repository是不能设置仅自己可见的。
+ 下面就教大家如何利用fork来的repository生成属于自己的订阅地址。
+ 视频教程：https://showmore.com/zh/u/m26uf1r
 #end comment 2020/02/20
 
 当然，即便你只有一个trojan节点，也可以用这个方法实现订阅添加。
